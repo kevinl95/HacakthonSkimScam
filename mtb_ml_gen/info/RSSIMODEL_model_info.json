@@ -1,0 +1,1 @@
+{"cycles_flt": 910, "scratch_flt": 24, "state_flt": 0, "model_mem_flt": 88, "cycles_int16x16": 640, "scratch_int16x16": 40, "state_int16x16": 0, "model_mem_int16x16": 52, "cycles_int16x8": 775, "scratch_int16x8": 40, "state_int16x8": 0, "model_mem_int16x8": 34, "cycles_int8x8": 736, "scratch_int8x8": 36, "state_int8x8": 0, "model_mem_int8x8": 34}
